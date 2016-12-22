@@ -1,0 +1,55 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #7f79d4;
+}
+
+#header-nav {
+	background-color: #cb98e5;
+	border-radius: 0;
+	border: 0; 
+}
+.navbar-brand {
+	padding-top: 35px; 
+}
+.navbar-brand h1 {
+	font-family: 'Cuprum', sans-serif;
+	color: #efeef4;
+	font-size: 1.7em;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #000000;
+	margin-top: -15px;
+	margin-bottom: 0;
+	line-height: .75;  
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+
+#our-title {
+	font-family: 'Cuprum', sans-serif;
+	margin-top: -5px;
+}
+
+.row{
+	background-color: #bcb9e9;
+	color: #302b7b;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+.menu-title{
+	text-align: center;
+	font-size: 1.3em;
+}
+
+#nav-list a {
+	background-color: #e8caf7;
+	color: #6c0d9d;
+	text-align: center;
+}
+#nav-list a:hover {
+	background:#f4dffe;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 1px solid #5c0c85;
+}
